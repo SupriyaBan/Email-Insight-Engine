@@ -1,0 +1,11 @@
+email	intent	sentiment	summary	next_step
+I am having issues with the login. Please fix ASAP!	Login Issue	NEGATIVE	I am having issues with the login. Please fix ASAP!	Send password reset instructions.
+Thanks for the help, everything is working now.	Praise	POSITIVE	"Everything is working now. Thanks for the help, everything was working now," he said.	Send thank-you note or a loyalty reward.
+Can I get a refund for my last purchase?	Refund Request	NEGATIVE	Can I get a refund for my last purchase? I want to know if I can get a full refund on my recent purchase.	Prioritize refund and send apology note.
+My order hasn't arrived yet. What's going on?	Order Status	NEGATIVE	CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery. Visit CNN.com/Travel each week for a	Check order status and reply with tracking link.
+The product is great, really happy with it!	Praise	POSITIVE	The product is great, really happy with it!	Send thank-you note or a loyalty reward.
+I'm unable to reset my password.	Password Reset	NEGATIVE	'I'm unable to reset my password. I'm sorry,' she writes.	Send password reset instructions.
+App keeps crashing when I try to open it.	Cancellation	NEGATIVE	App keeps crashing when I try to open it.	Acknowledge cancellation and stop billing.
+Can you update me on the shipping status?	Order Status	NEGATIVE	"Can you update me on the shipping status?" I asked. "Yes, I can. Can you tell me the shipping	Check order status and reply with tracking link.
+Worst customer service ever.	Complaint	NEGATIVE	Worst customer service ever.	Apologize and escalate to customer care manager.
+I want to cancel my subscription immediately.	Cancellation	NEGATIVE	"I want to cancel my subscription immediately," she said. "I don't want to see any more of these videos."	Acknowledge cancellation and stop billing.
